@@ -1,0 +1,6 @@
+given I have two number:3,5.
+when I create multiply table with 3 and 5.
+then I should get a multiply table like:
+3*3=9	
+3*4=12	4*4=16	
+3*5=15	4*5=20	5*5=25	
